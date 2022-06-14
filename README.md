@@ -2,7 +2,7 @@
 
 <img src="src/assets/pokedex.gif" alt="gif do site">
 
-> Site para listagem de filmes e salvar em uma página de favoritos.
+> Site para listagem de filmes e opção para salvar em uma página de favoritos.
 
 ## :page_facing_up: Explicação
 
@@ -20,7 +20,7 @@ Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://
 
 ```bash
 # Clone this project
-$ git clone git@github.com:antonio-ma-santos/pokedex.git
+$ git clone https://github.com/antonio-ma-santos/filmaria.git
 # Access
 $ cd filmaria
 # Install dependencies
