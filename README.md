@@ -1,6 +1,6 @@
 <h1 align="center">Filmaria</h1>
 
-<img src="src/assets/pokedex.gif" alt="gif do site">
+<img src="src/assets/filmaria.gif" alt="gif do site">
 
 > Site para listagem de filmes, opção para salvar em uma página de favoritos e abrir o vídeo do trailer do filme direto no YouTube.
 
